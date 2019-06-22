@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file>qt.png</file>
+    <file>about.png</file>
+    <file>close-file.png</file>
+    <file>copy.png</file>
+    <file>cut.png</file>
+    <file>exit.png</file>
+    <file>file.png</file>
+    <file>fullscreen.png</file>
+    <file>paste.png</file>
+    <file>pdf-export.png</file>
+    <file>save-as.png</file>
+    <file>save.png</file>
+    <file>settings.png</file>
+  </qresource>
+</RCC>
